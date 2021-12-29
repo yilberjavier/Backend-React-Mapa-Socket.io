@@ -1,3 +1,3 @@
 
-para arrancar el cerver ejecute el comando
+para arrancar el Server ejecute el comando
 ### `npm run dev`
